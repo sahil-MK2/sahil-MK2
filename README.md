@@ -1,8 +1,23 @@
 ![logo](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 <h1 align="center">Hi 👋, I'm Sahil Bhoyar</h1>
 <h3 align="center">A Passionate Software Engineer from India interested in DevOps</h3>
-<img align="right" alt="codding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+<p align="center" style="display: flex; justify-content: center; gap: 60px;">
+  <a href="https://www.credly.com/badges/77662a10-e043-4506-9f7a-b7f6cd41626c" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Credly Badge 1" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/5fbffd4d-7f7d-4fa7-98c7-1e000f8ec01b" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="Credly Badge 2" width="100" />
+  </a>
+  <a href="https://www.credly.com/badges/5920e00f-d3d6-4950-a8f5-da70bd5e8a9b" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/24fcfd23-9a1c-4963-b403-a830a2148489/blob" alt="Credly Badge 3" width="100" />
+  </a>
+</p>
+
+
+<!-- <img align="right" alt="codding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-mk32&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-mk32" /> </p>
+-->
 
 - 📝 I regularly write articles on [linkedin.com/in/sahil-bhoyar-4a123b1b0](linkedin.com/in/sahil-bhoyar-4a123b1b0)
 
